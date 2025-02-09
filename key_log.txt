@@ -1,0 +1,17 @@
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+Key.ctrl_l
+'\x03'
+Key.enter
+'j'
+Key.backspace
+Key.backspace
+Key.up
+Key.up
+Key.up
+Key.up
+Key.up
+Key.down
+Key.enter
